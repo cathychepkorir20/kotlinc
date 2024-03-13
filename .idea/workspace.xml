@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798d2d1e-9ac6-42d2-9cb9-5ad2ada0ba38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Morningkotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Morningkotlin/DatatypesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Morningkotlin/IntroductionKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Morningkotlin/META-INF/Morningkotlin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Morningkotlin/MainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Morningkotlin/VariablesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evenorodd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallestnumbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whenstatement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplecalc.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +40,7 @@
     "Kotlin.EvenoroddKt.executor": "Run",
     "Kotlin.IntroductionKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
+    "Kotlin.SimplecalcKt.executor": "Run",
     "Kotlin.SmallestnumbersKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
